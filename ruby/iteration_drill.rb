@@ -8,17 +8,17 @@ zombie_apocalypse_supplies = ["hatchet", "rations", "water jug", "binoculars",
 # ----
 
 # 2. In order to keep yourself organized, sort your zombie_apocalypse_supplies
-# in alphabetical order. Do not use any special built-in methods.
+# in alphabetical order. Do not use the built-in method .sort/.sort!
 # ----
 
 # 3. Create a method to see if a particular item (string) is in the
-# zombie_apocalypse_supplies. Do not use any special built-in methods.
+# zombie_apocalypse_supplies. Do not use the built-in method .include
 # For instance: are boots in your list of supplies?
 # ----
 
 # 4. You can't carry too many things, you've only got room in your pack for 5.
 # Remove items in your zombie_apocalypse_supplies in any way you'd like,
-# leaving only 5. Do not use any special built-in methods.
+# leaving only 5. Do not use the built-in methods .take, .drop, or .sample
 # ----
 
 # 5. You found another survivor! This means you can combine your supplies.
@@ -33,11 +33,11 @@ other_survivor_supplies = [ "warm clothes", "rations", "compass", "camp stove",
 # Hash Drills
 
 extinct_animals = {
+  "Passenger Pigeon" => 1914,
   "Tasmanian Tiger" => 1936,
   "Eastern Hare Wallaby" => 1890,
   "Dodo" => 1662,
   "Pyrenean Ibex" => 2000,
-  "Passenger Pigeon" => 1914,
   "West African Black Rhinoceros" => 2011,
   "Laysan Crake" => 1923
 }
@@ -47,21 +47,21 @@ extinct_animals = {
 # ----
 
 # 2. Keep only animals in extinct_animals if they were extinct before
-# the year 2000. Do not use any special built-in methods.
+# the year 2000. Do not use any the built-in methods .delete_if or .keep_if
 # ----
 
 # 3. Our calculations were completely off, turns out all of those animals went
 # extinct 3 years before the date provided. Update the values in extinct_animals
 # so they accurately reflect what year the animal went extinct.
-# Do not use any special built-in methods.
 # ----
 
 # 4. You've heard that the following animals might be extinct, but you're not sure.
-# Check if they're included in extinct_animals, one by one:
+# Build a method that checks if an animal is in the hash and returns true/false.
+# Call the method in your driver code to check if the following animals are extinct or not:
 # "Andean Cat"
 # "Dodo"
 # "Saiga Antelope"
-# Do not use any special built-in methods.
+# Do not use the built-in methods .include?, .has_key?, .member?
 # ----
 
 # 5. We just found out that the Passenger Pigeon is actually not extinct!
