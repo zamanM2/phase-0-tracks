@@ -18,7 +18,7 @@ cite {
 }
 p. #external-links {
     display: inline;
-    
+
 }
 
 /* you're welcome to edit the
@@ -40,4 +40,10 @@ figcaption {
 
 body {
   width: 960px;
+}
+
+@media screen and (max-width: 500px) {
+  body {
+    background-color: hotpink;
+  }
 }
