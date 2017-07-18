@@ -1,0 +1,22 @@
+h1 {
+  color: red;
+}
+header {
+  background-color: blue;
+}
+.column-1 {
+  background-color: pink;
+  border: solid black;
+  float: left;
+  width: 45%;
+  padding: 4px;
+}
+.column-2 {
+  float: right;
+  border: dotted black;
+  width: 45%;
+  padding: 4px;
+}
+footer {
+  background-color: green;
+}
