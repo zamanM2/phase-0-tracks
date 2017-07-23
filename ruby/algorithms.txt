@@ -1,0 +1,13 @@
+*Walk forward towards elevator
+*Examine elevator signs
+*Press up arrow
+*Enter elevator when done opens
+*Turn around
+*Look at elevator floors numbers
+*Press floor number 12
+*See if anyone is rushing towards elevator
+*If anyone is rushing to elevator, rapidly press close door button
+*
+*
+*
+*
