@@ -1,3 +1,4 @@
+
 #set counter to 0 
 #make while loop to repeat
  #make a funtion to add one yo letter
@@ -52,6 +53,7 @@ else do
   end
 
 end 
+
 
 
 
