@@ -1,4 +1,5 @@
-loys do you want to do?"
+
+puts "how many employs do you want to do?"
 survey = gets.chomp
 while survey < x
 	do
@@ -59,3 +60,10 @@ else puts "Results inconclusive"
 				end
 
 			end
+
+
+
+
+
+
+

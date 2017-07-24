@@ -1,3 +1,4 @@
+
 def hamster(name)
    
    puts "what is the hamsters name?"
@@ -31,3 +32,4 @@ puts "what is the hamsters age"
 age = gets.chomp
 print age
 end
+
