@@ -1,0 +1,28 @@
+
+h1 {
+   color: gold;
+    
+  }
+ 
+ blockquote {
+   border-top: 1px;
+border-top: 10px solid grey;
+border-top: solid grey;
+  border : 1px solid black;
+  background-color: white;
+  color: black;
+  font-variant: small-caps;
+  font-size: 1;
+  font-family: Helvetica;
+  padding: 10px;
+  margin: 10px;
+  width: 30%;
+  height: 50%;
+  display: block;
+  vertical-align: side
+}
+
+cite{
+  
+  font-weight: bold;
+}
