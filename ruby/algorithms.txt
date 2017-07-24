@@ -1,0 +1,25 @@
+*Walk forward towards elevator
+*Examine elevator signs
+*Press up arrow
+*Enter elevator when done opens
+*Turn around
+*Look at elevator floors numbers
+*Press floor number 12
+*See if anyone is rushing towards elevator
+*If anyone is rushing to elevator, rapidly press close door button
+*
+*
+*How to make a pancakes
+*get water
+*get pancake mix
+*get egggs
+*pick up water
+*pick up pancake mix
+*pour pancake mix into bowl
+*pour water mix into bowl
+*mix bowl
+*pour mix into pan
+*put pan on stove
+*heat for 10 min
+*take offpancake
+*enjoy
