@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <body>
     <header>
       <h1>GitHub: Git Cheat Sheet</h1>
@@ -261,3 +262,27 @@
     </footer>
   <!-- Add your reflection here as a comment. -->
   </body>
+=======
+h1 {
+  color: red;
+}
+header {
+  background-color: blue;
+}
+.column-1 {
+  background-color: pink;
+  border: solid black;
+  float: left;
+  width: 45%;
+  padding: 4px;
+}
+.column-2 {
+  float: right;
+  border: dotted black;
+  width: 45%;
+  padding: 4px;
+}
+footer {
+  background-color: green;
+}
+>>>>>>> 57afadfca677418964f3554c290d0d82b302ab7a
