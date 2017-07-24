@@ -20,7 +20,7 @@ def fur(color)
     
     end
 
-def adoptv(hamster)
+def adopt (hamster)
     puts "is the hamster good for adopt"
     hamster = gets.chomp
     print hamster
