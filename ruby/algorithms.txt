@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *Walk forward towards elevator
 *Examine elevator signs
 *Press up arrow
@@ -24,3 +25,5 @@
 *take off pancake
 *enjoy
 *throw garbage
+=======
+>>>>>>> 78f30eccb1a4453355d12c04803eb8aa5893fcb6
