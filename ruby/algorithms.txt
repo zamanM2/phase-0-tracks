@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 *Walk forward towards elevator
 *Examine elevator signs
 *Press up arrow
@@ -27,3 +28,56 @@
 *throw garbage
 =======
 >>>>>>> 78f30eccb1a4453355d12c04803eb8aa5893fcb6
+=======
+*Walk forward towards elevator
+*Examine elevator signs
+*Press up arrow
+*Enter elevator when done opens
+*Turn around
+*Look at elevator floors numbers
+*Press floor number 12
+*See if anyone is rushing towards elevator
+*If anyone is rushing to elevator, rapidly press close door button
+*
+*
+*How to make a pancakes
+*get water
+*get pancake mix
+*get egggs
+*pick up water
+*pick up pancake mix
+*pour pancake mix into bowl
+*pour water mix into bowl
+*mix bowl
+*pour mix into pan
+*put pan on stove
+*heat for 10 min
+*take offpancake
+*enjoy
+=======
+*Walk forward towards elevator
+*Examine elevator signs
+*Press up arrow
+*Enter elevator when done opens
+*Turn around
+*Look at elevator floors numbers
+*Press floor number 12
+*See if anyone is rushing towards elevator
+*If anyone is rushing to elevator, rapidly press close door button
+*
+*
+*How to make a pancakes
+*get water
+*get pancake mix
+*get egggs
+*pick up water
+*pick up pancake mix
+*pour pancake mix into bowl
+*pour water mix into bowl
+*mix bowl
+*pour mix into pan
+*put pan on stove
+*heat for 10 min
+*take offpancake
+*enjoy
+>>>>>>> 032be7b23f2fb1ff6f5ce7510abc9a178777c36d
