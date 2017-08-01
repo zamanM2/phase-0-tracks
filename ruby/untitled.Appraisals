@@ -1,10 +1,4 @@
 
-while gets.chomp = "y" 
-	
-do calculate
-
-if gets.chomp ="n"
-	break
 
 def calculate(int,"+",int2)
 int 
@@ -23,6 +17,4 @@ gets.chomp
 puts "please enter the second number"
 gets.chomp
 
-print calculate(int," ",int2)
-
-end
+calculate(int," ",int2)
