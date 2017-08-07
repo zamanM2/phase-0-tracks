@@ -19,6 +19,7 @@ Bark
 
 
 
+
 class Puppy
 	def initialize(name,species, behavior)
 		name = " "
@@ -39,9 +40,21 @@ class Puppy
  print "Woof"
 
 end
-
+  
+  def roll_over
+    prints "Rolls over"
+    
+  end
+  
+  def dog_year(int)
+    human_year = x
+    dog_years= human_year * 15
+    print dog_years
+    
+  end
 end 
 
+end
 
 
 	
