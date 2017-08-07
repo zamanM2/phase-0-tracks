@@ -75,4 +75,31 @@ i = Puppy.new
 i.pet_belly
 
 
+#New Class *****************************************
+
+
+class Ninja
+  def warriror
+    print "I am a warior!"
+    
+  end
+def clan
+  print "I am from the #{clan_name} clan"
+end
+
+end 
+
+while j <= 50
+ j = Ninja.new
+    j.warior
+    
+     Ninja.each 
+    
+  end
+
+
+
+
+
+
 	
