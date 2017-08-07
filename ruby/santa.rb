@@ -16,5 +16,13 @@ class Santa
 	
 	
 	end
+	
+def	celebrate_birthday
+  @age= age+1
+end
+
+def get_mad_at(name)
+@reindeer_ranking.shift
+end
 
 end
