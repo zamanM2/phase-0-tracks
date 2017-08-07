@@ -18,6 +18,7 @@ Bark
 =end
 
 
+
 class Puppy
 	def initialize(name,species, behavior)
 		name = " "
@@ -31,7 +32,13 @@ class Puppy
     puts "I brought back the #{toy}!"
     toy
   end
+  
+  def speak(int )
+  	int = gets.chomp
+ int.times do
+ print "Woof"
 
+end
 
 end 
 
