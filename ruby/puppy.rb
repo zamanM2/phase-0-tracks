@@ -20,6 +20,7 @@ Bark
 
 
 
+
 class Puppy
 	def initialize(name,species, behavior)
 		name = " "
@@ -55,6 +56,23 @@ end
 end 
 
 end
+
+end
+
+#Driver Code *************************************
+
+
+i = Puppy.new 
+i.roll_over
+
+i = Puppy.new
+i.dog_years
+
+i = Puppy.new 
+i.fetch
+
+i = Puppy.new
+i.pet_belly
 
 
 	
