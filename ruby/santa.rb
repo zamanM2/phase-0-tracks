@@ -1,4 +1,6 @@
 class Santa
+	attr_reader :gender , :age, :ethnicity , :reindeer_ranking
+	attr_accessor :gender , :age, :ethnicity
 	def speak
 		print "Ho, ho, ho! Haaaappy holidays!"
 	end
@@ -16,5 +18,22 @@ class Santa
 	
 	
 	end
+	
+def	celebrate_birthday
+  @age= age+1
+end
+
+def get_mad_at(name)
+@reindeer_ranking.shift
+end
 
 end
+
+def gender(new_gender)
+  @gender = new_gender
+end
+
+
+
+
+
