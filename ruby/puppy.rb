@@ -16,3 +16,15 @@ Hug
 Lick
 Bark
 =end
+
+
+class Puppy
+	def initialize(name,species, behavior)
+		name = " "
+		species = "Dog"
+		chararacteristics 
+		behavior 
+
+	end
+
+	
