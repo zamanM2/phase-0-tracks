@@ -26,3 +26,9 @@ def get_mad_at(name)
 end
 
 end
+
+
+def gender(new_gender)
+  @gender = new_gender
+end
+
