@@ -1,0 +1,41 @@
+class Guessword
+  attr_reader :guess_chance
+  attr_reader :chance
+  def initialize
+    @word=["program", "lazy" ,"ruby"]
+    @guess_count = 0 
+    @chance = false 
+  end
+  
+  def guess(word)
+    
+    guess == @word.length
+    @word.guess
+  end
+  
+  def guess_chance
+    guess == @word.length
+    @chance.guess_chance
+  end
+  
+  def guessing(word)
+   if  @word[word] == "program"|| "ruby" || "lazy"
+     @chance = true 
+   else 
+   end
+  end
+end
+
+# user 
+
+puts "This is the word guessing game"
+game = Guessword.new
+puts "Start guessing letters"
+user= gets.chomp
+while user gets.chomp == "program"|| "ruby" || "lazy"
+puts "Congrats you guessed it!"
+else puts @guess_chance
+  puts user gets.chomp
+  while user gets.chomp != "program"|| "ruby" || "lazy"
+  puts user gets.chomp
+  puts "Guess another word."
